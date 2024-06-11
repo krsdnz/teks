@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
       <div>
           <a
-            href="#"
+            href="./dashboard"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +29,7 @@ export default function Home() {
 
       <div className={styles.center}>
         <a
-            href="#"
+            href="./dashboard"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +46,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="#"
+          href="./dashboard/about"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -58,7 +58,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="./dashboard/urun"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -70,7 +70,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="./dashboard/canli"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
@@ -82,7 +82,7 @@ export default function Home() {
         </a>
 
         <a
-          href="#"
+          href="./dashboard/iletisim"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"

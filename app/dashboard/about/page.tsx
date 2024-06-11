@@ -1,9 +1,10 @@
-import {Links} from "../components/Links"
+import {Links} from "../../components/Links"
 
 export default function Page() {
     return (
     <>
     <Links/>
-    <h1>Ana sayfa</h1>
+    <h1>Hakkımızda</h1>
     </>)
   }
+
