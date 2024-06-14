@@ -20,7 +20,7 @@ export function Links() {
             className={`link ${pathname === '/about' ? 'active' : ''}`}
             href="../dashboard/about"
           >
-            About
+            Hakkımızda...
           </Link>
         </li>
         <li style={{listStyle:'none'}}>
